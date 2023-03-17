@@ -1,5 +1,6 @@
 package br.com.jfs_junior;
 
+import br.com.jfs_junior.dominio.Conteudo;
 import br.com.jfs_junior.dominio.Curso;
 import br.com.jfs_junior.dominio.Mentoria;
 
